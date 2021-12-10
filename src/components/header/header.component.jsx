@@ -28,4 +28,5 @@ const Header = ({ currentUser }) => (
     </div>
 )
 
+
 export default Header
